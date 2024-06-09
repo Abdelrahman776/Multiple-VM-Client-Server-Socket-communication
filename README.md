@@ -1,9 +1,4 @@
-﻿
-
-
-
-
-# Multiple-VM-Client-Server-Socket-communication 
+﻿# Multiple-VM-Client-Server-Socket-communication 
 
 ### This socket program consists of 1 Server virtual machine and two client VMs.
 - It allows you to send and receive customized messages  by the user from each client to the server and vice versa.
